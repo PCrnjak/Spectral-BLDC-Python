@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Spectral-BLDC
+Version: 1.15
+Summary: Python module for Spectral BLDC motor controllers
+Author: Source robotics (Petar Crnjak)
+Author-email: <info@source-robotics.com>
+License: MIT
+Project-URL: Documentation, https://source-robotics.github.io/PAROL-docs/
+Project-URL: Source, https://source-robotics.github.io/PAROL-docs/
+Keywords: python,BLDC,CANBUS,Robot,Source robotics,robotics
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# Spectral-BLDC
+Python lib for controlling spectral BLDC controllers.

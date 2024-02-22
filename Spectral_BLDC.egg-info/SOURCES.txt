@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+Spectral_BLDC/CAN_utils.py
+Spectral_BLDC/Spectral_BLDC.py
+Spectral_BLDC/__init__.py
+Spectral_BLDC.egg-info/PKG-INFO
+Spectral_BLDC.egg-info/SOURCES.txt
+Spectral_BLDC.egg-info/dependency_links.txt
+Spectral_BLDC.egg-info/requires.txt
+Spectral_BLDC.egg-info/top_level.txt
