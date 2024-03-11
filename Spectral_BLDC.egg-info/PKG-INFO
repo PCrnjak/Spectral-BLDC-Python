@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Spectral-BLDC
-Version: 1.17
+Version: 1.18
 Summary: Python module for Spectral BLDC motor controllers
 Author: Source robotics (Petar Crnjak)
 Author-email: <info@source-robotics.com>
