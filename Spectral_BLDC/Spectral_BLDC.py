@@ -18,7 +18,8 @@ class CanCommunication:
         self.bustype=bustype
         self.channel=channel
         self.bitrate=bitrate
-        self.bus = can.interface.Bus(bustype = self.bustype, channel = self.channel, bitrate = self.bitrate)
+        if self.channel != None:
+            self.bus = can.interface.Bus(bustype = self.bustype, channel = self.channel, bitrate = self.bitrate)
 
     def send_can_message(self, message_id, data=b'', remote_frame=False):
         message = can.Message(arbitration_id=message_id, data=data, is_remote_frame=remote_frame, is_extended_id=False)
