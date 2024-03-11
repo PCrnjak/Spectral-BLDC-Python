@@ -8,7 +8,7 @@ logging.basicConfig(level = logging.DEBUG,
     datefmt='%H:%M:%S'
 )
 
-#logging.disable(logging.DEBUG)
+logging.disable(logging.DEBUG)
 
 CanMessage = namedtuple("CanMessage", ["node_id", "command_id", "error_bit"])
 
