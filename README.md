@@ -7,6 +7,8 @@ Python lib for controlling spectral BLDC controllers over CAN bus.
 
 # How to install
 
+  pip install Spectral-BLDC
+
 # How to use
 
 # Examples
