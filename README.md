@@ -1,6 +1,6 @@
 # Spectral-BLDC
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  ![Issues](https://img.shields.io/github/issues/PCrnjak/Spectral-BLDC-Python) ![release](https://img.shields.io/github/v/release/PCrnjak/Spectral-BLDC-Python)
 
 
 Python lib for controlling spectral BLDC controllers over CAN bus.
