@@ -5,7 +5,7 @@
 
 [DOCS](https://source-robotics.github.io/Spectral-BLDC-docs/apage1_specs/)
 
-Python lib for controlling spectral BLDC controllers and SSG-48 gripper over CAN bus. 
+Python lib for controlling [spectral BLDC](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller/blob/main/README.md) controllers and [SSG-48 gripper](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper) over CAN bus. 
 
 # How to install
 
