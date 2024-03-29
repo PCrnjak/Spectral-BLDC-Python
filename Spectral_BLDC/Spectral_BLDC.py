@@ -137,6 +137,17 @@ class SpectralCAN:
         self.voltage = None
         self.heartbeat = None
 
+        self.gripper_position = None
+        self.gripper_speed = None
+        self.gripper_current = None
+        self.gripper_activated = None
+        self.gripper_action_status = None
+        self.gripper_object_detection = None
+        self.gripper_temperature_error = None
+        self.gripper_timeout_error = None
+        self.gripper_estop_error = None
+        self.gripper_calibrated = None
+
         self.error_bit = None
         self.error = None
         self.temperature_error = None
