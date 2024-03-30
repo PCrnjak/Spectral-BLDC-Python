@@ -2,10 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  ![Issues](https://img.shields.io/github/issues/PCrnjak/Spectral-BLDC-Python) ![release](https://img.shields.io/github/v/release/PCrnjak/Spectral-BLDC-Python)
 
-
-[DOCS](https://source-robotics.github.io/Spectral-BLDC-docs/apage1_specs/)
-
 Python lib for controlling [spectral BLDC](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller/blob/main/README.md) controllers and [SSG-48 gripper](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper) over CAN bus. 
+For more info about this API and all available commands check [DOCS](https://source-robotics.github.io/Spectral-BLDC-docs/apage7_can/)
 
 # How to install
 
