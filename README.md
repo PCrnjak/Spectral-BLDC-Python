@@ -11,9 +11,40 @@ Python lib for controlling [spectral BLDC](https://github.com/PCrnjak/Spectral-M
 
   pip install Spectral-BLDC
 
-# How to use
+# Basic example
 
-# Examples
+
+``` py 
+import Spectral_BLDC as Spectral
+import time
+
+
+Communication1 = Spectral.CanCommunication(bustype='slcan', channel='COM41', bitrate=1000000)
+Motor1 = Spectral.SpectralCAN(node_id=0, communication=Communication1)
+
+while True:
+
+    Motor1.Send_Respond_Encoder_data()
+
+    message, UnpackedMessageID = Communication1.receive_can_messages(timeout=0.2)
+
+    if message is not None:
+
+        Motor1.UnpackData(message,UnpackedMessageID)
+        print(f"Motor position is: {Motor1.position}")
+        print(f"Motor speed is: {Motor1.speed}")
+
+    else:
+        print("No message after timeout period!")
+    print("")
+    time.sleep(1 )
+```
+
+
+# More examples
+
+Check out the Examples folder for more examples!
+
 
 
 This project is entirely open-source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
