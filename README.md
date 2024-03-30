@@ -41,7 +41,10 @@ while True:
 
 # More examples
 
-Check out the Examples folder for more examples!
+Check out the [Examples folder](https://github.com/PCrnjak/Spectral-BLDC-Python/tree/main/examples) for more examples!
+Available examples:
+* Send_respond_1
+* Get_encoder_data
 
 
 
