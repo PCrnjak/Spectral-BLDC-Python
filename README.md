@@ -45,6 +45,7 @@ Check out the [Examples folder](https://github.com/PCrnjak/Spectral-BLDC-Python/
 Available examples:
 * Send_respond_1
 * Get_encoder_data
+* SSG48_gripper_test
 
 
 
