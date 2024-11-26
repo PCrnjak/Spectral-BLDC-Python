@@ -237,6 +237,6 @@ while(1):
 
 ### Full code
 
-Above example is just a pseudo code for a full python code check our github repo
+The above example is just a pseudo code for a full Python code check the grav_comp_single_link.py
 
-## Learn more
+
