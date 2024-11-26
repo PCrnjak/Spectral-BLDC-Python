@@ -112,6 +112,9 @@ Commanded is most common because:Acceleration is rarely directly measured, Deriv
 
 ## Our setup 
 
+For more detailed setup with images go to our blog:
+https://source-robotics.com/blogs/blog/gravity-compensation-in-robotics
+
 ### Our test jig
 
 ### Modeling the jig in CAD
