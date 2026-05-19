@@ -49,6 +49,15 @@ Available examples:
 
 
 
+# Related projects
+
+| Product | Description | Links |
+|---|---|---|
+| **Spectral Micro BLDC Controller** | Compact brushless motor controller with CAN bus, position/velocity/torque/impedance control modes | [GitHub](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller) |
+| **SSG-48 Adaptive Electric Gripper** | Adaptive electric gripper controllable over CAN bus | [GitHub](https://github.com/PCrnjak/SSG-48-adaptive-electric-gripper) |
+| **MSG Gripper** | Compliant AI stepper gripper with force control, open-source firmware, GUI and Python API; designed for assembly tasks and AI training | [Store](https://source-robotics.com/products/msg-gripper) · [GitHub](https://github.com/PCrnjak/MSG-compliant-AI-stepper-gripper) · [Docs](https://source-robotics.github.io/MSG-gripper-docs/) |
+| **STEPFOC Stepper Controller** | FOC-based stepper motor controller that turns low-cost steppers into high-performance robotic servos; CAN & UART, 14-bit encoder, open-source | [Store](https://source-robotics.com/products/stepfoc-stepper-controller) · [GitHub](https://github.com/PCrnjak/STEPFOC-stepper-controller) · [Docs](https://source-robotics.github.io/STEPFOC-docs/) |
+
 This project is entirely open-source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
 
  [![General badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PCrnjak?locale.x=en_US)
